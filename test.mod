@@ -1,0 +1,16 @@
+MODULE test;
+
+VAR a : ARRAY 5 OF INTEGER;
+
+PROCEDURE p (VAR a : ARRAY OF INTEGER);
+BEGIN
+
+a[0] := 0;
+
+END p;
+
+
+BEGIN
+p(a);
+
+END test.

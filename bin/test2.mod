@@ -1,0 +1,12 @@
+MODULE test2;
+VAR a* : INTEGER;
+
+PROCEDURE pro*;
+BEGIN
+
+END pro;
+
+BEGIN
+
+
+END test2.
